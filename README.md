@@ -25,16 +25,24 @@
 
 Clone the project and access the folder.
 
-### Web
-
 ```bash
 $ git clone https://github.com/diaspd/ignite-timer.git
+$ cd 
+```
 
-# Install the dependencies
+## Installation
+
+```bash
 $ npm install
+```
 
+## Running the app
+
+```bash
 $ npm run dev
 ```
+
+The app will be avaible on http://localhost:5173/
 
 <br></br>
 
