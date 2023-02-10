@@ -42,7 +42,7 @@ $ npm install
 $ npm run dev
 ```
 
-The app will be avaible on `http://localhost:5173/`
+The app will be available on `http://localhost:5173/`
 
 <br></br>
 
