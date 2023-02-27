@@ -1,7 +1,7 @@
 {
   "name": "ignite-timer",
   "private": true,
-  "author": "Pedro Dias",
+  "author": "pedro_dias",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
