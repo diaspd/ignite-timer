@@ -2,7 +2,7 @@
   Ignite Timer
 </h1>
 
-<br></br>
+</br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,13 +12,13 @@
 
 <br>
 
-<h1 align="center">
+<div align="center">
   <img alt="image" title="" src="Capa.svg" width="100%" />
-</h1>
+</div>
 
-<h1 align="center">
+<div align="center">
   <img alt="image" title="" src="img.png" width="100%" />
-</h1>
+</div>
 
 
 ## 🚀 Getting started
