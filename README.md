@@ -10,7 +10,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
 <div align="center">
   <img alt="image" title="" src="Capa.svg" width="100%" />
@@ -55,6 +55,8 @@ This project was developed with the following technologies:
 - Styled Components
 - TypeScript
 - Vitejs
+
+</br>
 
 ## 📄 Project
 💰 A timer with storic.
