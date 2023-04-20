@@ -50,11 +50,12 @@ The app will be available on `http://localhost:5173/`
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
+<b>
 - React
 - Styled Components
 - TypeScript
 - Vitejs
+</b>
 
 </br>
 
