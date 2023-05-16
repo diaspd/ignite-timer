@@ -14,10 +14,6 @@
   <img alt="image" title="" src="./public/template.png" width="100%" />
 </div>
 
-<div align="center">
-  <img alt="image" title="" src="img.png" width="100%" />
-</div>
-
 </br>
 
 ## 🚀 Getting started
