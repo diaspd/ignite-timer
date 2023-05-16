@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img alt="image" title="" src="Capa.svg" width="100%" />
+  <img alt="image" title="" src="./public/template.png" width="100%" />
 </div>
 
 <div align="center">
