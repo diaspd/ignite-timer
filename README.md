@@ -56,7 +56,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A timer with storic.
+💰 A timer who can create tasks and mark as finished.
 
 <br></br>
 
